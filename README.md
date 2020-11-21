@@ -1,4 +1,7 @@
 # microS2
+
+![microS2-img](docs/microS2-img.png)
+
 Introducing the microS2 - An ESP32-S2 based development board in the size of an esp32 module!
 
 **Features & Specifications**
@@ -15,11 +18,12 @@ Introducing the microS2 - An ESP32-S2 based development board in the size of an 
  - QWIIC/STEMMA connector
  - Small form factor
 
-**Code**
-- [Arduino (beta)](https://github.com/espressif/arduino-esp32/tree/esp32s2)
-- [ESP-IDF 3.3.4](https://github.com/espressif/esp-idf)
-- [CircuitPython 6.0.0 beta-x](https://circuitpython.org/board/microdev_micro_s2/)
+**Software Support**
+- [Arduino v4.2](https://github.com/espressif/arduino-esp32/tree/esp32s2)
+- [ESP-IDF v4.2 (beta)](https://github.com/espressif/esp-idf)
+- [CircuitPython 6.1.0](https://circuitpython.org/board/microdev_micro_s2/)
+- [UF2 Bootloader](https://github.com/adafruit/tinyuf2/tree/master/ports/esp32s2)
 
-**Pinout**
-
-![Pin Functions](docs/microS2-pinout.png)
+![microS2-Wroom](docs/microS2-wroom.png)
+![microS2-Features](docs/microS2-features.png)
+![microS2-Pinout](docs/microS2-pin-fade.png)
