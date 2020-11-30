@@ -2,9 +2,9 @@
 
 ![microS2-img](docs/microS2-img.png)
 
-Introducing the microS2 - An ESP32-S2 based development board in the size of an esp32 module!
+Introducing the **microS2** - An ESP32-S2 based development board in the size of an esp32 module!
 
-**Features & Specifications**
+### Features & Specifications
  - 32-bit 240 MHz single-core processor
  - 16 MB SPI Flash
  - 8 MB extra PSRAM
@@ -18,7 +18,7 @@ Introducing the microS2 - An ESP32-S2 based development board in the size of an 
  - QWIIC/STEMMA connector
  - Small form factor
 
-**Software Support**
+### Software Support
 - [Arduino v4.2](https://github.com/espressif/arduino-esp32/tree/esp32s2)
 - [ESP-IDF v4.2 (beta)](https://github.com/espressif/esp-idf)
 - [CircuitPython 6.1.0](https://circuitpython.org/board/microdev_micro_s2/)
