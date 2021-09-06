@@ -19,10 +19,10 @@ Introducing the **microS2** - An ESP32-S2 based development board in the size of
  - Small form factor
 
 ### Software Support
-- [Arduino](https://github.com/espressif/arduino-esp32/tree/esp32s2)
+- [Arduino](https://github.com/espressif/arduino-esp32)
 - [ESP-IDF](https://github.com/espressif/esp-idf)
-- [CircuitPython](https://circuitpython.org/board/microdev_micro_s2/)
-- [UF2 Bootloader](https://github.com/adafruit/tinyuf2/tree/master/ports/esp32s2#uf2-bootloader-application-for-esp32-s2)
+- [CircuitPython](https://circuitpython.org/board/microdev_micro_s2)
+- [UF2 Bootloader](https://github.com/adafruit/tinyuf2/tree/master/ports/esp32s2)
 
 ![microS2-Wroom](docs/microS2-wroom.png)
 ![microS2-Features](docs/microS2-features.png)
